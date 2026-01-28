@@ -6,6 +6,8 @@ A compact Rock–Paper–Scissors–style game using Stone, Paper, and Chizzer. 
 - Player vs computer gameplay
 - Score tracking across rounds
 - Lightweight, beginner-friendly implementation
+---
+## 🎮 Demo Check out the live version of **Stone-Paper-Chizzer-game** here: 👉 [Play the Game on Vercel](https://stone-paper-chizzer-game.vercel.app/)
 
 ## How to play
 1. Choose one: Stone, Paper, or Chizzer.  
